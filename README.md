@@ -7,12 +7,15 @@ In this challenge I used various techniques to train and evaluate a model based 
 Results
 
 Accuracy Score: The accuracy score of the machine learning model is 0.99, indicating that it correctly predicts loan status 99% of the time.
+
 Precision Score:
 Healthy Loan (Class 0): 1.00
 High-risk Loan (Class 1): 0.85
+
 Recall Score:
 Healthy Loan (Class 0): 0.99
 High-risk Loan (Class 1): 0.95
+
 F1 Score:
 Healthy Loan (Class 0): 1.00
 High-risk Loan (Class 1): 0.89
